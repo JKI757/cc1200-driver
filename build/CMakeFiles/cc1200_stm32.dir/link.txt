@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libcc1200_stm32.a "CMakeFiles/cc1200_stm32.dir/Users/josh/Documents/Code/Radio_Code/TexasInstruments/cc1200-driver/stm32/CC1200_HAL.cpp.o"
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libcc1200_stm32.a

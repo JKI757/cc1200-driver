@@ -17,7 +17,7 @@
 #ifndef CC1200_CC1200MORSE_H
 #define CC1200_CC1200MORSE_H
 
-#include "CC1200.h"
+#include "../../mbed/CC1200.h"
 
 /**
  * @brief Class allowing you to transmit Morse code using the CC1200 radio

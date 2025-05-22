@@ -18,7 +18,7 @@
 #pragma ide diagnostic ignored "readability-magic-numbers"
 
 #include "CC1200.h"
-#include "CC1200Bits.h"
+#include "../common/CC1200Bits.h"
 
 #include <cinttypes>
 #include <cmath>

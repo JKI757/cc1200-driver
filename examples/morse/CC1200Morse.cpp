@@ -15,7 +15,7 @@
  */
 
 #include "CC1200Morse.h"
-
+#include "../../mbed/CC1200.h"
 #include <cinttypes>
 
 // Morse code tables.
